@@ -1,6 +1,6 @@
 # patatap-clone
 
-working with paper.js and howler.js
+working with **paper.js** and **howler.js**
 
 pleasant work, getting to know new libraries :-)
 
